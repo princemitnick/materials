@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.prince</groupId>
 	<artifactId>materials</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<name>materials</name>
 	<description>Materials Project</description>
 	<properties>
