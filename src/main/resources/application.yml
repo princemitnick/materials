@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: material
+  datasource:
+    url: jdbc:mysql://172.25.187.240:3306/distribution_mgr
+    username: root
+    password: mypass
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+server:
+  port: 9293
